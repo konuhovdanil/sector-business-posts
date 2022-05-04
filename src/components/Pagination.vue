@@ -45,6 +45,7 @@ export default {
       font-weight: 500;
       font-size: 24px;
       color: #474955;
+      cursor: pointer;
     }
 
     &__pages_container {
